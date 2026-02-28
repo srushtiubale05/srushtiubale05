@@ -46,18 +46,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://www.linkedin.com/in/srushti-ubale-5a46332a1/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
 </a>
-
-<a href="https://github.com/srushtiubale05" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</a>
-
-<a href="https://leetcode.com/u/srushtiubale/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/srus/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
-</a>
 </p>
 
 ---
