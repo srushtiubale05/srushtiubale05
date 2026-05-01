@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### About Me
 
-- 🎓 B.Tech CSE (2023–2027), Cummins College Pune  
+- 🎓 B.Tech CSE (2023–2027), MKSSS's Cummins College of Engineering for women,Pune  
 - 📊 CGPA: 8.9  
 - 🧠 Strong in Data Structures & Algorithms  
 - ⚙️ I enjoy building logic-heavy backend systems  
