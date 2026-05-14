@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋 I'm Srushti Ubale</h1>
 
 <h3 align="center">
-DSA Enthusiast • AI-Driven Systems
+Passionate Computer Science Undergraduate • Problem Solver • Tech Enthusiast
 </h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srushtiubale05&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-</p>
 
 ---
 
