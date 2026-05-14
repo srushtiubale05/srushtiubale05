@@ -17,8 +17,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE (2023–2027)  
   MKSSS's Cummins College of Engineering for Women, Pune  
-
-- 📊 CGPA: **9.21**
+- 📊 CGPA: **8.9**
 
 - 🧠 Passionate about **Data Structures & Algorithms**
 
@@ -28,7 +27,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💡 Exploring AI-integrated systems and optimization techniques
 
-- 📅 Available from **15 August 2026 – 15 December 2026**
 
 ---
 
@@ -47,11 +45,8 @@ Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
 
 ```txt
 • Data Structures & Algorithms
-• Backend Development
-• System Design
 • AI-Driven Applications
 • Analytics & Optimization
-• Enterprise Software Solutions
 ```
 
 ---
