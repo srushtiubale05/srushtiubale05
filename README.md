@@ -71,7 +71,6 @@ Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## Connect With Me
 
