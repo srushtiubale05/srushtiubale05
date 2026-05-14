@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Srushti Ubale</h1>
 
 <h3 align="center">
-DSA Enthusiast • Backend Developer • AI-Driven Systems
+DSA Enthusiast • AI-Driven Systems
 </h3>
 
 <p align="center">
@@ -71,13 +71,12 @@ Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=srushtiubale05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtiubale05&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 ## Connect With Me
