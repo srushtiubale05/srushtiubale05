@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋 I'm Srushti Ubale</h1>
 
 <h3 align="center">
-DSA Enthusiast • Backend Developer • AI-Driven Systems Builder
+DSA Enthusiast • Backend Developer • AI-Driven Systems
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srushtiubale05&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Intelligent+and+Scalable+Applications;Passionate+About+DSA+and+System+Design;Creating+AI-Powered+Solutions+for+Real+World+Problems;Learning+Something+New+Every+Day" />
-</p>
-
 ---
 
-<img align="right" alt="coding" width="340"
+<img align="right" alt="coding" width="330"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## About Me
@@ -24,13 +20,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📊 CGPA: **9.21**
 
-- 🧠 Strong interest in **Data Structures & Algorithms**
+- 🧠 Passionate about **Data Structures & Algorithms**
 
-- ⚙️ Building projects focused on **backend systems, automation, analytics, and intelligent platforms**
+- ⚙️ Interested in backend systems, automation, analytics, and scalable applications
 
-- 🚀 Interested in solving real-world problems through scalable technology
+- 🚀 Building projects focused on solving real-world problems using technology
 
-- 💡 Exploring system design, optimization, and AI-integrated applications
+- 💡 Exploring AI-integrated systems and optimization techniques
 
 - 📅 Available from **15 August 2026 – 15 December 2026**
 
@@ -38,11 +34,12 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,dart,flutter,mysql,firebase,git,github,html,css,vscode&theme=dark" />
-
-</p>
+```txt
+Languages:       Java, Python
+Databases:       MySQL, MongoDB, Firebase
+Tools & Tech:    Git, GitHub, VS Code
+Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
+```
 
 ---
 
@@ -51,7 +48,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ```txt
 • Data Structures & Algorithms
 • Backend Development
-• Scalable System Design
+• System Design
 • AI-Driven Applications
 • Analytics & Optimization
 • Enterprise Software Solutions
@@ -62,10 +59,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## Featured Project Domains
 
 - Disaster Response & Coordination Platforms  
-- Smart Traffic & Monitoring Systems  
+- Smart Traffic Management Systems  
 - Supply Chain Analysis Systems  
 - Personalized Meal Planning Applications  
-- Intelligent Academic & Productivity Tools  
+- Intelligent Academic Platforms  
 
 ---
 
@@ -96,9 +93,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 <p align="center">
-
-✨ <i>"Designing systems that combine logic, scalability, and innovation."</i>
-
+<i>"Designing systems that combine logic, scalability, and innovation."</i>
 </p>
 
 <p align="center">
