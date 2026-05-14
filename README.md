@@ -69,13 +69,12 @@ Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtiubale05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-  <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=srushtiubale05&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=srushtiubale05&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
 
