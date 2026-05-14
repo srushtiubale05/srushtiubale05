@@ -67,9 +67,6 @@ Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
   <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushtiubale05&theme=tokyonight" />
-</p>
 
 ---
 ## Connect With Me
