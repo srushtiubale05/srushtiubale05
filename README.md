@@ -31,8 +31,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ```txt
 Languages:       Java, Python
 Databases:       MySQL, MongoDB, Firebase
-Tools & Tech:    Git, GitHub, VS Code
-Core Concepts:   DSA, OOP, DBMS, System Design, DevOps, Cloud Computing
+Tools & Tech:    GitHub, VS Code
+Core Concepts:   DSA, OOP, DBMS, DevOps, Cloud Computing
 ```
 
 ---
