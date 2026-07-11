@@ -1,90 +1,73 @@
-<h1 align="center">Hi 👋 I'm Srushti Ubale</h1>
+<h1 align="center">Srushti Ubale</h1>
 
 <h3 align="center">
-Passionate Computer Science Undergraduate • Problem Solver • Tech Enthusiast
+Technology Development Intern at Barclays | B.Tech Computer Science | Software Engineering | Data Structures & Algorithms
 </h3>
 
 ---
 
-<img align="right" alt="coding" width="330"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## About
 
-## About Me
+I am a final-year B.Tech Computer Science student at MKSSS's Cummins College of Engineering for Women, Pune, currently working as a Technology Development Intern at Barclays.
 
-- 🎓 B.Tech CSE (2023–2027)  
-  MKSSS's Cummins College of Engineering for Women, Pune  
-- 📊 CGPA: **8.9**
-
-- 🧠 Passionate about **Data Structures & Algorithms**
-
-- ⚙️ Interested in backend systems, automation, analytics, and scalable applications
-
-- 🚀 Building projects focused on solving real-world problems using technology
-
-- 💡 Exploring AI-integrated systems and optimization techniques
-
+I enjoy building scalable software systems and solving real-world problems through software engineering and algorithmic thinking. My interests include backend development, distributed systems, data structures & algorithms, and system design. I am always looking for opportunities to learn, collaborate, and contribute to impactful technology.
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-```txt
-Languages:       Java, Python
-Databases:       MySQL, MongoDB, Firebase
-Tools & Tech:    GitHub, VS Code
-Core Concepts:   DSA, OOP, DBMS, DevOps, Cloud Computing
+```text
+Languages      Java, Python, TypeScript
+
+Frontend       Angular, HTML, CSS
+
+Backend        Spring Boot, FastAPI, REST APIs
+
+Databases      PostgreSQL, MySQL
+
+Core CS        Data Structures & Algorithms, OOP,
+               DBMS, Operating Systems,
+               Computer Networks
+
+Tools          Git, GitHub, VS Code
 ```
 
 ---
 
-## Areas of Interest
+## Featured Projects
 
-```txt
-• Data Structures & Algorithms
-• AI-Driven Applications
-• Analytics & Optimization
-```
+### SupplyChain OS
 
----
+Graph-powered logistics intelligence platform implementing graph algorithms for disruption analysis, route optimization, and supply chain analytics.
 
-## Featured Project Domains
+### AuctionHub
 
-- Disaster Response & Coordination Platforms  
-- Smart Traffic Management Systems  
-- Supply Chain Analysis Systems  
-- Personalized Meal Planning Applications  
-- Intelligent Academic Platforms  
+Real-time online bidding platform supporting concurrent bidding through Spring Boot, WebSockets, and React.
+
+### Mentora
+
+Adaptive learning and examination platform featuring dynamic difficulty adjustment, performance analytics, and personalized revision recommendations.
 
 ---
 
-## GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushtiubale05&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushtiubale05&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=github-dark&hide_border=true" />
 </p>
 
-
----
-## Connect With Me
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/srushti-ubale-5a46332a1/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-<i>"Designing systems that combine logic, scalability, and innovation."</i>
-</p>
+## Contact
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-</p>
+LinkedIn: https://www.linkedin.com/in/srushti-ubale-5a46332a1
+
+Email: [srushtiubale21@gmail.com](mailto:srushtiubale21@gmail.com)
