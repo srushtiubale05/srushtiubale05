@@ -17,7 +17,7 @@ I enjoy building scalable software systems and solving real-world problems throu
 ## Technical Skills
 
 ```text
-Languages      Java, Python, TypeScript
+Languages      Java, Python
 
 Frontend       Angular, HTML, CSS
 
@@ -28,8 +28,6 @@ Databases      PostgreSQL, MySQL
 Core CS        Data Structures & Algorithms, OOP,
                DBMS, Operating Systems,
                Computer Networks
-
-Tools          Git, GitHub, VS Code
 ```
 
 ---
