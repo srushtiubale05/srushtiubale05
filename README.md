@@ -1,7 +1,7 @@
 <h1 align="center">Srushti Ubale</h1>
 
 <h3 align="center">
-Technology Development Intern at Barclays | B.Tech Computer Science | Software Engineering | Data Structures & Algorithms
+Technology Development Intern at Barclays | B.Tech Computer Science |
 </h3>
 
 ---
@@ -31,38 +31,6 @@ Core CS        Data Structures & Algorithms, OOP,
 
 Tools          Git, GitHub, VS Code
 ```
-
----
-
-## Featured Projects
-
-### SupplyChain OS
-
-Graph-powered logistics intelligence platform implementing graph algorithms for disruption analysis, route optimization, and supply chain analytics.
-
-### AuctionHub
-
-Real-time online bidding platform supporting concurrent bidding through Spring Boot, WebSockets, and React.
-
-### Mentora
-
-Adaptive learning and examination platform featuring dynamic difficulty adjustment, performance analytics, and personalized revision recommendations.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushtiubale05&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srushtiubale05&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtiubale05&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
