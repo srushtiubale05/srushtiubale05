@@ -1,7 +1,7 @@
 <h1 align="center">Srushti Ubale</h1>
 
 <h3 align="center">
-Technology Development Intern at Barclays | B.Tech Computer Science |
+B.Tech Computer Science 
 </h3>
 
 ---
