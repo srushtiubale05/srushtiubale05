@@ -8,9 +8,10 @@ B.Tech Computer Science
 
 ## About
 
-I am a final-year B.Tech Computer Science student at MKSSS's Cummins College of Engineering for Women, Pune, currently working as a Technology Development Intern at Barclays.
+I am a final-year B.Tech Computer Science student passionate about software engineering and building solutions to real-world problems.
 
-I enjoy building scalable software systems and solving real-world problems through software engineering and algorithmic thinking. My interests include backend development, distributed systems, data structures & algorithms, and system design. I am always looking for opportunities to learn, collaborate, and contribute to impactful technology.
+My interests include algorithms, backend development, and system design. I enjoy working on challenging projects, learning new technologies, and continuously growing as a software engineer.
+
 
 ---
 
