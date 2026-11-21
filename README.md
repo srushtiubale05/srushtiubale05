@@ -10,7 +10,7 @@ B.Tech Computer Science
 
 I am a final-year B.Tech Computer Science student passionate about software engineering and building solutions to real-world problems.
 
-My interests include algorithms, backend development, and system design. I enjoy working on challenging projects, learning new technologies, and continuously growing as a software engineer.
+My interests include algorithms, backend development, and system design. I enjoy working on challenging projects, learning new technologies, and continuously growing.
 
 
 ---
